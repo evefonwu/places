@@ -58,7 +58,8 @@ Bad request error
 
 Making changes the data model?
 
-For details see [HowToGraphQL](https://www.howtographql.com/graphql-js/6-authentication/); execute new migration and re-generate Prisma Client with every change to the data model such as adding a new table in schema.prisma.
+- For details see [HowToGraphQL](https://www.howtographql.com/graphql-js/6-authentication/)
+- Execute new migration and re-generate Prisma Client with every change to the data model such as adding a new table in schema.prisma.
 
 ## Roadmap
 
