@@ -1,8 +1,6 @@
-# Demo fullstack GraphQL
+# Places
 
-This is a little demo program for applying what I learned from the HowToGraphQL.com tutorials on React, Apollo, GraphQL, and Node.
-
-Simple Airbnb-inspired CRUD (or Query, Mutation) application.
+A simple rental places database using fullstack GraphQL with React, Apollo, and Node
 
 - query all places
 - query one place by id
@@ -17,7 +15,7 @@ Install React application dependencies
 yarn install
 ```
 
-Install server dependencies
+Install GraphQL server dependencies
 
 ```
 cd server
