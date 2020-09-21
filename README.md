@@ -53,8 +53,8 @@ node src/index.js
 
 Bad request error
 
-- check query
-- try query on GraphQL playground on http://localhost:4000
+- Check your query
+- Try query on GraphQL playground on http://localhost:4000
 
 Making changes the data model?
 
