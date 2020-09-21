@@ -22,7 +22,6 @@ Install server dependencies
 ```
 cd server
 yarn install
-yarn prisma deploy
 ```
 
 ## Usage
