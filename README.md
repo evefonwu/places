@@ -65,8 +65,6 @@ Making changes the data model?
 - GraphQL validations ?
 - real-time subscriptions ?
 - paginate listing ?
-- search places ?
-- authentication ?
 
 ## Contributing
 
