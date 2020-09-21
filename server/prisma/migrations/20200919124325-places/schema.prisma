@@ -1,0 +1,18 @@
+// Follow instructions on https://www.howtographql.com/graphql-js/4-adding-a-database/
+
+datasource db {
+  provider = "sqlite"
+  url = "***"
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Place {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now())
+  name      String
+  type      String
+  guests    String
+}

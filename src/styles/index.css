@@ -1,0 +1,85 @@
+body {
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    Helvetica Neue, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+}
+
+.branding {
+  padding: 10px 20px;
+}
+
+.navigation {
+  height: 100px;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header a {
+  padding: 10px 12px;
+}
+
+.container {
+  margin: 0 32px;
+}
+
+.section-title {
+  line-height: 26px;
+  color: rgb(34, 34, 34);
+  font-weight: 600;
+}
+
+.actions-heading {
+  display: flex;
+  justify-content: space-between;
+}
+
+.actions-panel {
+  text-decoration: underline;
+}
+
+.places-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.place-list-item {
+  padding: 20px 40px 30px 0px;
+  flex-basis: 7rem;
+  /* border: 1px solid #ccc; */
+}
+
+.place-name {
+  font-weight: 600;
+}
+
+select,
+input {
+  display: block;
+  padding: 8px 10px;
+  margin: 20px 0px;
+  width: 300px;
+}
+
+button {
+  margin-top: 12px;
+  margin-bottom: 28px;
+  border-radius: 10px;
+  padding: 10px 20px;
+  background-color: #008489;
+  border: 0px;
+  color: #fff;
+}
+
+.delete-panel {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+}
+
+.delete-action {
+  padding: 20px 0px;
+  text-decoration: underline;
+}
