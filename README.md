@@ -4,7 +4,7 @@ A simple rental places database using fullstack GraphQL with React, Apollo, and 
 
 - create a place
 - query all places
-- query one place by id
+- query a place by id
 - update a place
 - delete a place
 
