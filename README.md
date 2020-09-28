@@ -2,6 +2,7 @@
 
 A simple rental places database using fullstack GraphQL with React, Apollo, and Node
 
+- create a place
 - query all places
 - query one place by id
 - update a place
@@ -53,7 +54,7 @@ Bad request error
 - Check your query
 - Try query on GraphQL playground on http://localhost:4000
 
-Making changes the data model?
+Making changes to the data model?
 
 - Execute new migration and re-generate Prisma Client with every change to the data model such as adding a new table in schema.prisma. (For details see [HowToGraphQL](https://www.howtographql.com/graphql-js/6-authentication/))
 
